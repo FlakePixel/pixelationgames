@@ -1,0 +1,5 @@
+{
+    "name": "pixelformer-launcher",
+    "main": "electron-main.js",
+    "version": "0.5.1"
+}
